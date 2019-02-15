@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: True and focus on long term strategic vision and alignments
-image: /img/truehoshin-logo-svg.svg
+image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
