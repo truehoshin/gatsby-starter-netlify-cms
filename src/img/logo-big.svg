@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="8.1111336mm"
-   height="8.1111326mm"
-   viewBox="0 0 8.1111336 8.1111324"
+   width="34.284031mm"
+   height="19.446096mm"
+   viewBox="0 0 34.284031 19.446096"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="LOGO-SMALL.svg">
+   sodipodi:docname="LOGO-NEW2.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="600.06842"
-     inkscape:cy="-295.10043"
+     inkscape:cx="227.84031"
+     inkscape:cy="-199.18001"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="2880"
      inkscape:window-height="1620"
-     inkscape:window-x="6644"
-     inkscape:window-y="271"
+     inkscape:window-x="6529"
+     inkscape:window-y="329"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
@@ -52,7 +52,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(70.912791,61.332649)">
+     transform="translate(-5.215271,-5.6280022)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot3897"
@@ -75,7 +75,9 @@
            y="587.51971" /></flowRegion><flowPara
          id="flowPara3917" /></flowRoot>    <g
        id="g4084"
-       transform="matrix(0.04589844,0,0,0.04134115,19.579168,12.176043)">
+       transform="matrix(0.04589844,0,0,0.04134115,21.166668,18.790626)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          id="g4024" />
       <g
@@ -110,15 +112,6 @@
          style="opacity:0.76000001;fill:#800000"
          transform="matrix(0.40531913,0,0,0.44999996,1246.9347,1094.3999)"
          id="g4344-3">
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#800000"
-           d="m -7722.6666,-6383.3333 c -120.398,0 -218,97.602 -218,218 0,120.398 97.602,218 218,218 120.398,0 218,-97.602 218,-218 0.066,-120.332 -97.428,-217.934 -217.76,-218 -0.08,0 -0.16,0 -0.24,0 z m 0,277.7 -87.89,50 87.89,-219.4 87.89,219.4 z"
-           id="path4298-2" />
-        <g
-           style="fill:#800000"
-           id="g4312-1"
-           transform="translate(6328.8888,56.888888)" />
         <g
            style="fill:#800000"
            id="g4314-0" />
@@ -165,7 +158,43 @@
            style="fill:#800000"
            id="g4342-3" />
         <g
-           id="g1250" />
+           transform="translate(-4728.8892,-6398.8674)"
+           style="opacity:1;fill:#800000"
+           id="g1250">
+          <text
+             transform="matrix(28.293801,0,0,28.293801,-603.37518,3409.6091)"
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.27604151px;line-height:1.25;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:1.09140623px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18190102"
+             x="49.278645"
+             y="25.140612"
+             id="text4290-5"><tspan
+               sodipodi:role="line"
+               id="tspan4288-80"
+               x="49.278645"
+               y="25.140612"
+               style="line-height:1.25;letter-spacing:1.09140623px;fill:#000000;stroke-width:0.18190102"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.27604151px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.18190102"
+                 id="tspan4284-0">TRUE</tspan><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.27604151px;line-height:1.25;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:1.09140623px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.18190102"
+                 id="tspan4286-7">HOSHIN</tspan></tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:111.18479156px;line-height:1.25;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.94905043"
+             x="1271.7115"
+             y="269.35559"
+             id="text4294-1"
+             transform="matrix(1.2324847,0,0,1.2324847,-4.4896359,3941.2673)"><tspan
+               sodipodi:role="line"
+               id="tspan4292-6"
+               x="1271.7115"
+               y="269.35559"
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:111.18479156px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:6.94905043">Consulting Inc.</tspan></text>
+          <path
+             id="path4298-2-2-9"
+             d="m 1666.684,3259.3332 c -155.7442,0 -282,126.2558 -282,282 0,155.7442 126.2558,282 282,282 155.7441,0 282,-126.2558 282,-282 0.085,-155.6588 -126.0308,-281.9146 -281.6895,-282 -0.1038,0 -0.2071,0 -0.3106,0 z m 0,359.2267 -113.6926,64.6788 113.6926,-283.811 113.6926,283.811 z"
+             style="opacity:1;fill:#760000;fill-opacity:1;stroke-width:1.29357815"
+             inkscape:connector-curvature="0" />
+        </g>
       </g>
     </g>
   </g>

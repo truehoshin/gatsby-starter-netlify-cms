@@ -3,6 +3,8 @@ import React from 'react'
 import Layout from '../../components/Layout'
 import BlogRoll from '../../components/BlogRoll'
 
+import MyChart from '../../components/MyChart'
+
 export default class BlogIndexPage extends React.Component {
   render() {
     
@@ -28,10 +30,12 @@ export default class BlogIndexPage extends React.Component {
                 >
                   Latest Stories
                 </h1>
+                <MyChart />
               </div>
             </div>
               <BlogRoll />
             </div>
+            
         </section>
       </Layout>
     )
